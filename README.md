@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on a - [movie recommmendation engine](https://github.com/613Xav/Letterboxd-movie-recommender)
 
-# Languages I've used:
+## Languages I've used:
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=613xav&show_icons=true&locale=en&layout=compact" alt="613xav" /></p>
 
